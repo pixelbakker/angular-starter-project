@@ -1,0 +1,36 @@
+{
+  "name": "myproject",
+  "version": "0.0.0",
+  "description": "My project ===================",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+
+  "homepage": "",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.3.4",
+    "gulp-clean": "^0.3.1",
+    "gulp-connect": "^2.0.6",
+    "gulp-watch": "^0.6.9",
+    "gulp-download": "0.0.1",
+    "request": "^2.40.0",
+    "gulp-remote-src": "^0.2.1",
+    "rsyncwrapper": "^0.4.1",
+    "gulp-rename": "^1.2.0",
+    "mkdirp": "^0.5.0",
+    "gulp-html-replace": "^1.1.0",
+    "gulp-ruby-sass": "^0.7.1",
+    "gulp-sass": "^0.7.3",
+    "proxy-middleware": "^0.5.0",
+    "url": "^0.10.1",
+    "mocha": "1.21.4",
+    "casperjs": "1.1.0-beta3",
+    "mocha-casperjs": "0.5.1",
+    "chai": "1.9.1",
+    "casper-chai": "0.2.1"
+  }
+}

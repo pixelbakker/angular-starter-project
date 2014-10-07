@@ -1,0 +1,24 @@
+{
+  "name": "your_project_name",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "1.2.2",
+    "json3": "~3.2.6",
+    "es5-shim": "~2.1.0",
+    "jquery": "latest",
+    "angular-resource": "1.2.15",
+    "angular-cookies": "1.2.15",
+    "angular-sanitize": "latest",
+    "angular-ui-router": "latest",
+    "angular-bootstrap": "latest",
+    "bootstrap": "latest"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.15",
+    "angular-scenario": "1.2.15",
+    "angular-animate": "~1.2.23"
+  },
+  "resolutions": {
+    "angular": "1.2.26"
+  }
+}
